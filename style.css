@@ -13,12 +13,14 @@ body {
     background: whitesmoke;
 }
 
+
 .button-container {
     border: 2px solid black;
     padding: 10px;
     border-radius: 7px;
     box-shadow: inset 0 20px 4px -19px rgba(255, 255, 255,0.7);
 }
+
 
 button{
    cursor: pointer; 
@@ -30,6 +32,7 @@ button{
     background: linear-gradient(to top, rgb(72, 162, 165), rgb(45, 85, 160));
     border-radius: 8px;
     border: 2px solid black;
+    padding: 10px;
 }
 
 button:hover{
